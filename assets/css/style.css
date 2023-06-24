@@ -94,6 +94,7 @@ body {
 
 .video {
     width: 500px;
+    cursor: pointer;
 }
 
 .feedUser {
